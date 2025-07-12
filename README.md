@@ -47,10 +47,3 @@ Options:
   - --file (required)
   - --keyword (required)
 
-🚦 Next Step
-1️⃣ Set up Cobra (cobra-cli init --pkg github.com/yourusername/gopherlogs).
-2️⃣ Create subcommands: tail, last, filter.
-3️⃣ Implement clean file handling, keyword filtering, and concurrency.
-4️⃣ Add README and sample logs for testing.
-5️⃣ Push to GitHub when done.
-
