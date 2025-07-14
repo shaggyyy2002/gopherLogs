@@ -32,18 +32,18 @@ A practical Go CLI tool to tail, filter, and view log files efficiently.
 
 ## 🧩 Commands Overview
 - `tail` : Tails log files live.
-Options:
+- Options:
   - --file (multiple)   
   - --keyword (optional)
   - --lines (optional)
 
 - `last` : Displays last N lines from a file.
-Options:
+- Options:
   - --file (required)
   - --lines (required)
 
 - `filter` : Filters an entire file for a keyword.
-Options:
+- Options:
   - --file (required)
   - --keyword (required)
 
